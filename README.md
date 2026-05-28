@@ -1,4 +1,4 @@
-# AI Coffee Promotion Assistant Skill
+# 咖啡店新品宣傳文案 Skill
 
 ## 專案簡介
 AI Coffee Promotion Assistant 是一個協助咖啡店、飲料店或小型品牌快速產生社群宣傳文案的 AI 工作流程。
